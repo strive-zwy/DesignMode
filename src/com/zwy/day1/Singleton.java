@@ -1,4 +1,4 @@
-package com.zwy;
+package com.zwy.day1;
 
 /**
  * @Author zwy
