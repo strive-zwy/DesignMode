@@ -4,7 +4,8 @@ package com.zwy.day1;
  * @Author ：zwy
  * @Date ：2020/12/20 14:46
  * @Version ：1.0
- * @Description ：设计模式 - 4、装饰器模式
+ * @Description ：设计模式 - 5、装饰器模式
+ *  *                将原有的对象作为参数传入，可以添加新的功能
  **/
 public class DecoratorPattern{
     public static void main(String[] args) {
