@@ -1,6 +1,5 @@
 # DesignMode
-java 设计模式日常练习，根据B站up主-子烁爱学习- 的五分钟学设计模式系列进行学习。
-<br><br>[指路第一讲,点击跳转](https://b23.tv/a45izK )
+java 设计模式日常练习，
 #### Day 1
   + 单例模式 &nbsp;&nbsp; **Singleton.java**  
   + 简单工厂模式 &nbsp;&nbsp; **SimpleFactory.java**
