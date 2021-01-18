@@ -1,5 +1,5 @@
 # DesignMode
-java 设计模式日常练习，
+java 23种设计模式，日常练习
 #### Day 1
 + 单例模式 &nbsp;&nbsp; **Singleton.java**  
 + 简单工厂模式 &nbsp;&nbsp; **SimpleFactory.java**
@@ -17,6 +17,8 @@ java 设计模式日常练习，
 + 外观模式 &nbsp;&nbsp; **FacadePattern.java**
 + 状态模式 &nbsp;&nbsp; **StatePattern.java**
 + 策略模式模式 &nbsp;&nbsp; **StrategyPattern.java**
+<br>
 
-
- 
+#### Day4
+ + 原型模式 &nbsp;&nbsp; **Realizetype.java**
+ + 建造者模式 &nbsp;&nbsp; **Product.java**
